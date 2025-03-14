@@ -1,0 +1,15 @@
+This is a placeholder file to ensure the images directory exists in the repository.
+
+You should replace this with actual image files for your website, such as:
+- Logo
+- Hero background image
+- Service icons
+- Team photos
+- Any other visual elements
+
+Recommended image formats:
+- JPG for photographs
+- PNG for graphics with transparency
+- SVG for icons and logos (scalable)
+
+Make sure all images are optimized for web use to ensure fast loading times. 
